@@ -46,7 +46,7 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: [(Add your link)](https://www.linkedin.com/in/nicole-shekinah-omolo)
+* LinkedIn: [(https://www.linkedin.com/in/nicole-shekinah-omolo)]
 * Email: shekina.n.omolo@gmail.com
 
 ---
