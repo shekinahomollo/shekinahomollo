@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Nicole
 
-<!--
-**shekinahomollo/shekinahomollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Aspiring Software Engineer | Cybersecurity Enthusiast
+🚀 Building real-world systems and exploring how technology works under the hood
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* Passionate about **software engineering, distributed systems, and cybersecurity**
+* Currently building projects that strengthen my **problem-solving and system design skills**
+* Interested in **low-level systems, backend development, and secure systems**
+* Always learning, building, and improving
+
+---
+
+## 🛠️ Tech Stack
+
+| Category         | Technologies                                                   |
+| ---------------- | -------------------------------------------------------------- |
+| **Languages**    | C, C++, Python, JavaScript, TypeScript, Java, HTML5, CSS3, SQL |
+| **Backend**      | Django, Express.js, Flask, FastAPI                             |
+| **Frontend**     | React, Next.js                                                 |
+| **Databases**    | PostgreSQL, MySQL, Oracle, Microsoft Access, SQLite            |
+| **DevOps/Tools** | Git, Docker, VS Code                                           |
+
+---
+
+## 🎯 Current Focus
+
+* Strengthening **Data Structures & Algorithms**
+* Exploring **Cybersecurity**
+* Building **scalable backend systems**
+* Preparing for **internships and real-world opportunities**
+
+---
+
+## 📈 Goals
+
+* Gain industry experience through internships
+* Build impactful and scalable software systems
+* Grow in **cybersecurity and system design**
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [(Add your link)](https://www.linkedin.com/in/nicole-shekinah-omolo)
+* Email: shekina.n.omolo@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I spend my free time willingly torturing myself with a good 10K run.
+
+---
+
+⭐ *Always building. Always learning.*
