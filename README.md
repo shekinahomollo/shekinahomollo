@@ -43,11 +43,19 @@
 * Grow in **cybersecurity and system design**
 
 ---
+## My Coding Activity
+
+* Wakatime: [(https://wakatime.com/@shekinahomollo)]
+
+---
+
 
 ## 📫 Connect With Me
 
 * LinkedIn: [(https://www.linkedin.com/in/nicole-shekinah-omolo)]
 * Email: shekina.n.omolo@gmail.com
+
+  
 
 ---
 
